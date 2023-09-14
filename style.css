@@ -103,15 +103,15 @@
       font-size: 70px;
 }
 
-#about{ 
+footer{ 
     background-color: #3c3c3c;
     background-image: url(Images/upcoming_background.a669f19ea2aee3c7e10f.png);
-    content: "";
-    background-position: 50% 0;
-    background-repeat: no-repeat;
     background-size: cover;
-
-
+    background-repeat: no-repeat;
+    content: " ";
+    width: 100%;
+    height: 100;
+    opacity: 10;
 }
 
 .list-last{
@@ -122,3 +122,6 @@
     color: white;
     text-decoration: none;
 }
+
+
+ 
